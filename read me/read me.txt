@@ -24,14 +24,14 @@ Jon Snow:
 	Tranquil Haven Retreat		Open to NTU	jon
 
 -------------------------------------------------------------------------------------
-All Data is stored within /src/Files
+All Data is stored within Files
 
 Data pertaining to Students is stored within Student.txt
 Data pertaining to Staff is stored within Staff.txt
 Data pertaining to Camps is stored within Camp.txt
 
 -------------------------------------------------------------------------------------
-All Reports are saved within /src/Reports
+All Reports are saved within Reports
 
 Users are free to name their Reports
 -------------------------------------------------------------------------------------
