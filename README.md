@@ -12,16 +12,16 @@ Username: "character sequence occurring before the @ of user's email"
 Camps Created By:
 
 Natalie Hoffman:
-	Camp Enchanted Trails 		Open to SCSE	nat
+	Camp Enchanted Trails 		Open to SCSE	username: nat
 
 Fred Jones:
-	Wilderness Adventure Camp	Open to ADM	fred
+	Wilderness Adventure Camp	Open to ADM	username: fred
 
 Alicient Hightower:
-	Summer Serenity Camp		Open to EEE	aly
+	Summer Serenity Camp		Open to EEE	username: aly
 
 Jon Snow:
-	Tranquil Haven Retreat		Open to NTU	jon
+	Tranquil Haven Retreat		Open to NTU	username: jon
 
 -------------------------------------------------------------------------------------
 All Data is stored within Files
